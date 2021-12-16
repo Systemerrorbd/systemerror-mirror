@@ -1,22 +1,22 @@
 ```diff 
 - [ DEAD REPO AND NO MORE UPDATE ]
 ```
-[![SlamDevs](https://telegra.ph/file/143032e96542e7534f073.jpg)](https://t.me/SlamDevs)
+[![ERROR DEV](https://telegra.ph/file/143032e96542e7534f073.jpg)](@SYSTEMERRORBD)
 
-# Slam Mirror Bot
+# SERROR Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot?style=flat)
 ![GitHub watchers](https://img.shields.io/github/watchers/breakdowns/slam-mirrorbot)
 ![Docker Pulls](https://img.shields.io/docker/pulls/breakdowns/mega-sdk-python?label=Docker%20Pull)
 
-**Slam Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
+**SERROR Mirror Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 # Features:
 <details>
     <summary><b>Click Here For More Details</b></summary>
 
-## By Slam Devs
+## By SYSTEM ERROR DEV
 - qBittorrent
 - Leech supported
 - Thumbnail supported
