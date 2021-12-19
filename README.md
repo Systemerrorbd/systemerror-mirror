@@ -1,4 +1,4 @@
-(https://telegra.ph/file/7859e91f4e443229609df.jpg]
+https://telegra.ph/file/7859e91f4e443229609df.jpg
 
 (@SYSTEMERRORBD)
 
