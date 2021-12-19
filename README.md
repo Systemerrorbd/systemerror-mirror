@@ -1,4 +1,4 @@
-[![ERROR DEV](https://telegra.ph/Read-Me-12-19-2](@SYSTEMERRORBD)
+[![ERROR DEV](https://ibb.co/C5wBy4d](@SYSTEMERRORBD)
 
 # SERROR Mirror Bot
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
