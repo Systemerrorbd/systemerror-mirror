@@ -1,4 +1,4 @@
-(https://i.postimg.cc/QN6SxnGF/HD-wallpaper-master-roshi-dragon-ball-master-roshi-gucci.jpg]
+(https://ibb.co/C5wBy4d]
 
 (@SYSTEMERRORBD)
 
