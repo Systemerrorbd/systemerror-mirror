@@ -1,4 +1,6 @@
-[![ERROR DEV](https://i.postimg.cc/QN6SxnGF/HD-wallpaper-master-roshi-dragon-ball-master-roshi-gucci.jpg](@SYSTEMERRORBD)
+(https://i.postimg.cc/QN6SxnGF/HD-wallpaper-master-roshi-dragon-ball-master-roshi-gucci.jpg]
+
+(@SYSTEMERRORBD)
 
 # SERROR Mirror Bot
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot?color=green&style=flat)
