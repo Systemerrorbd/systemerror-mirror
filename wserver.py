@@ -201,13 +201,13 @@ input[type="submit"]:hover, input[type="submit"]:focus{
           src="https://telegra.ph/file/a97fb49ff2498018a59a7.png"
           alt="logo"
         />
-        <a href="https://t.me/SlamMirrorUpdates"> 
-          <h2 class="name">slam-mirrorbot</h2>
+        <a href="https://t.me/SystemerrorBD"> 
+          <h2 class="name">systemerror-mirror</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/SlamDevs/slam-mirrorbot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/SlamMirrorUpdates"><i class="fab fa-telegram"></i></a>
+        <a href="https://github.com/Systemerrorbd/systemerror-mirror"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/SystemerrorBD"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -327,7 +327,7 @@ code_page = """
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Torrent Code Checker</title>
-    <link rel="icon" href="https://telegra.ph/file/6507910fd06d18dfaba82.jpg" type="image/jpg"> 
+    <link rel="icon" href="https://ibb.co/C5wBy4d" type="image/jpg"> 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -701,7 +701,10 @@ async def set_priority(request):
 @routes.get('/')
 async def homepage(request):
 
-    return web.Response(text="<h1>See slam-mirrorbot <a href='https://github.com/Systemerrorbd/systemerror-mirror'>@GitHub</a> By <a href='https://github.com/SlamDevs'>SlamDevs</a></h1>", content_type="text/html")
+    return web.Response(text="<h1>See systemerror-mirror <a href='https://github.com/Systemerrorbd/systemerror-mirror'>@GitHub</a> By <a href='https://github.com/Systemerrorbd/systemerror-mirror
+
+
+'>SlamDevs</a></h1>", content_type="text/html")
 
 
 async def e404_middleware(app, handler):
@@ -711,11 +714,11 @@ async def e404_middleware(app, handler):
         try:
             response = await handler(request)
             if response.status == 404:
-                return web.Response(text="<h1>404: Page not found</h2><br><h3>slam-mirrorbot</h3>", content_type="text/html")
+                return web.Response(text="<h1>404: Page not found</h2><br><h3>systemerror-mirror</h3>", content_type="text/html")
             return response
         except web.HTTPException as ex:
             if ex.status == 404:
-                return web.Response(text="<h1>404: Page not found</h2><br><h3>slam-mirrorbot</h3>", content_type="text/html")
+                return web.Response(text="<h1>404: Page not found</h2><br><h3>systemerror-mirror</h3>", content_type="text/html")
             raise
     return middleware_handler
 
