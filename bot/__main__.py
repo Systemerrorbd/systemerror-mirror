@@ -45,7 +45,7 @@ def stats(update, context):
 
 def start(update, context):
     buttons = button_build.ButtonMaker()
-    buttons.buildbutton("Main Channel", "https://t.me/SystemerrorBD")
+    buttons.buildbutton("repo", "https://t.me/SystemerrorBD")
     buttons.buildbutton("All Channel", "https://t.me/SystemErrorNetwork")
     reply_markup = InlineKeyboardMarkup(buttons.build_menu(2))
     if CustomFilters.authorized_user(update) or CustomFilters.authorized_chat(update):
